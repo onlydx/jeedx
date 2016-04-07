@@ -11,4 +11,18 @@ package com.laze.common;
  */
 public class CommonContant {
 
+	/**
+	 * 成功状态
+	 */
+	public static final String STATUS_SUCCESS = "success";
+
+	/**
+	 * 错误状态
+	 */
+	public static final String STATUS_ERROR = "error";
+
+	/**
+	 * 失败状态
+	 */
+	public static final String STATUS_FAILURE = "failure";
 }
