@@ -8,6 +8,7 @@
 	<modules>
 		<module>jeedx-config</module>
 		<module>jeedx-admin</module>
+		<module>jeedx-web-admin</module>
 	</modules>
 
 	<properties><!-- 属性配置 -->
