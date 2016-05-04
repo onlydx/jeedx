@@ -247,12 +247,6 @@
 			<version>2.2.4</version>
 		</dependency>
 		
-		<dependency>
-			<groupId>org.yxjqd</groupId>
-			<artifactId>fastdfs-client-java</artifactId>
-			<version>5.0.5</version>
-		</dependency>
-		
 		<!-- dubbo服务中心 -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
